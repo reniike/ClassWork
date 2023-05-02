@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bde64a2-a63a-4dd2-ba14-47e78ee5c38a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Strings/CopyStringsToChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/Equality.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/ReversedAString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +55,7 @@
       <updated>1682686038216</updated>
       <workItem from="1682686040636" duration="1091000" />
       <workItem from="1682924791041" duration="2761000" />
-      <workItem from="1682981058682" duration="366000" />
+      <workItem from="1682981058682" duration="1375000" />
     </task>
     <servers />
   </component>

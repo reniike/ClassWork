@@ -9,9 +9,8 @@ public class Equality {
 
 
         System.out.println(name == nameTwo); //false checks for the address.
-//        System.out.println(name.equals(nameTwo)); //true checks for the value
+        System.out.println(name.equals(nameTwo)); //true checks for the value
         System.out.println(name == nameThree); //false
         System.out.println(name.equals(nameThree)); //true
-        System.out.println(name);
     }
 }
