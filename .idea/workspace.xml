@@ -2,30 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bde64a2-a63a-4dd2-ba14-47e78ee5c38a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/apiguardian-api-1.1.2-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/apiguardian-api-1.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-5.8.1-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-5.8.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-api-5.8.1-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-api-5.8.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-engine-5.8.1-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-engine-5.8.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-params-5.8.1-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-params-5.8.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/junit-platform-commons-1.8.1-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/junit-platform-commons-1.8.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/junit-platform-engine-1.8.1-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/junit-platform-engine-1.8.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/opentest4j-1.2.0-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/opentest4j-1.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapterSeventeen/functionalInterface/IntConsumerSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapterSeventeen/revision/StreamSampleOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapterSeventeen/revision/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapterSeventeen/revision/StudentDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/chapterSeventeen/revision/StreamSampleOneTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classWork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/classWork.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapterSeventeen/functionalInterface/ConsumerSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterSeventeen/functionalInterface/ConsumerSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapterSeventeen/revision/StreamSampleOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapterSeventeen/revision/StreamSampleOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,13 +61,26 @@
       <recent name="chapterSeventeen.revision" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.StreamSampleOne">
     <configuration name="IntConsumerSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapterSeventeen.functionalInterface.IntConsumerSample" />
       <module name="classWork" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="chapterSeventeen.functionalInterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamSampleOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapterSeventeen.revision.StreamSampleOne" />
+      <module name="classWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapterSeventeen.revision.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,6 +119,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamSampleOne" />
         <item itemvalue="JUnit.StreamSampleOneTest.testg" />
         <item itemvalue="Application.StudentDriver" />
         <item itemvalue="Application.IntConsumerSample" />
@@ -146,7 +138,7 @@
       <workItem from="1682924791041" duration="2761000" />
       <workItem from="1682981058682" duration="1375000" />
       <workItem from="1683115159600" duration="21000" />
-      <workItem from="1683188186860" duration="11531000" />
+      <workItem from="1683188186860" duration="14989000" />
     </task>
     <servers />
   </component>
